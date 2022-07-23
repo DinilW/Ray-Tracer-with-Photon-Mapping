@@ -1,4 +1,4 @@
-Creating a photon mapped image
+[Creating a photon mapped image]
 
 ========
 
