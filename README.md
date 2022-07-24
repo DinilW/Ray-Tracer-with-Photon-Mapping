@@ -3,6 +3,9 @@
 Photon Mapper
 ========
 
+## Introduction
+
+Using Ken Camerons inital ray tracer, we implement phong shading, reflection refraction, depth of field and photon mapping to create a realistic image.
 
 ## Run code
 
